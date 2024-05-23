@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Check my Portfolio! : [Portfolio](https://lbskraton.github.io/PortafolioPDA/)
+Check my Curriculum!: [https://github.com/Lbskraton/Curriculum](https://lbskraton.github.io/Curriculum/)
+
+
 <!--
 **Lbskraton/Lbskraton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
