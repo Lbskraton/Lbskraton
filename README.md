@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check my Portfolio! : [Portfolio](https://lbskraton.github.io/PortafolioPDA/)
+Check my Portfolio! : [Portfolio](https://lbskraton.github.io/PortafolioPDA/) \
 Check my Curriculum!: [https://github.com/Lbskraton/Curriculum](https://lbskraton.github.io/Curriculum/)
 
 
